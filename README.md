@@ -6,3 +6,5 @@ Although there are platforms that provide learning through various games, such a
 Because mini-quizzes may be held electronically without the need for sheets, the platform will be for schools, faculties, and courses to save on sheets and printing.
 
 The technology would save professors time because the platform would calculate student points automatically.
+
+**Developed(Backend Only) in Java Spring Boot using Hybernate and  Mysql**
