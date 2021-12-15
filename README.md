@@ -9,4 +9,4 @@ The technology would save professors time because the platform would calculate s
 
 **Developed(Backend Only) in Java Spring Boot using Hybernate and Mysql**
 ***
-The frontend is built with React JS and can be found [here](https://www.github.com).
+The frontend is built with React JS and can be found [here](https://github.com/etnikbeqiri1/arcademy-frontend).
